@@ -7,10 +7,10 @@
 </div>
 
 <p align="center">
- <a href="https://linkedin.com/in/ajeypandey" target="_blank">
+ <a href="https://www.linkedin.com/in/ajey-pandey-34947a21a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
- <a href="mailto:your-email@example.com">
+ <a href="mailto:ajeypandey27@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
  </a>
 </p>
@@ -45,13 +45,19 @@ I am a **Computer Engineering Student** passionate about leveraging data and alg
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajeypandey-eng&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeypandey-eng&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeypandey-eng&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Ajeypandey-eng">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeypandey-eng&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Ajeypandey-eng's Activity Graph" />
+  </a>
+  <br><br>
+  
+  <!-- Stats Card (Left) & Top Langs (Right) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajeypandey-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeypandey-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  
+  <br><br>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeypandey-eng&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 ---
