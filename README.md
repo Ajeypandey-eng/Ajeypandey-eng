@@ -1,78 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ajey+Pandey;Computer+Engineer;AI+%2F+ML+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajeypandey-eng&style=flat-square&color=blue" alt=""/>
+  <!-- Glitch/Synthwave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:ff00ff,50:00ffff,100:ff00ff&height=280&section=header&text=Ajey%20Pandey&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Enthusiast&descSize=25&descAlign=50&descAlignY=65&descColor=00ffff" alt="Ajey Pandey Header"/>
+  <!-- Typing Animation (Terminal Style) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=vt323&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;DSA+Learner;AI+%2F+ML+Enthusiast;Data+Science+Explorer;C%2B%2B+%2F+Java+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ajey-pandey-34947a21a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- Hybrid: For-The-Badge Shape + Neon Color -->
+  <img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=00ffff" alt="LinkedIn"/>
  </a>
  <a href="mailto:ajeypandey27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=ff00ff" alt="Email"/>
  </a>
+ <img src="https://komarev.com/ghpvc/?username=Ajeypandey-eng&style=for-the-badge&color=blueviolet&labelColor=2b2b2b" alt="Profile Views"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ <span style="color:#ff00ff">**Mission Status: ACTIVE**</span>
 
-I am a **Computer Engineering Student** passionate about leveraging data and algorithms to solve real-world problems. My focus lies in **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
+I am a **Computer Engineering Student** building the bridge between **Data** and **Intelligence**.
+My goal is to create systems that can *see*, *read*, and *predict*.
 
-- 🔭 I’m currently working on **Advanced Face Recognition & NLP Systems**.
-- 🌱 I’m currently learning **Deep Learning architectures (Transformers & GANs)**.
-- 👯 I’m looking to collaborate on **Open Source AI Projects**.
-- 💬 Ask me about **Python, Data Science, and Computer Vision**.
+- 🔭 **Current Focus**: Advanced Face Recognition & NLP.
+- 🧬 **Learning**: Transformers, GANs, & Large Language Models.
+- 🤝 **Collaborate**: Open Source AI & Computer Vision projects.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ <span style="color:#00ffff">**Tech Stack**</span>
 
 <div align="center">
 
-| **Core** | **AI & ML** | **Data Science** |
+| **Languages** | **AI Frameworks** | **Data Engineering** |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> | <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=00ffff"/> | <img src="https://img.shields.io/badge/TensorFlow-2b2b2b?style=for-the-badge&logo=tensorflow&logoColor=ff00ff"/> | <img src="https://img.shields.io/badge/Pandas-2b2b2b?style=for-the-badge&logo=pandas&logoColor=00ffff"/> |
+| <img src="https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=ff00ff"/> | <img src="https://img.shields.io/badge/Keras-2b2b2b?style=for-the-badge&logo=keras&logoColor=00ffff"/> | <img src="https://img.shields.io/badge/NumPy-2b2b2b?style=for-the-badge&logo=numpy&logoColor=ff00ff"/> |
+| <img src="https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=java&logoColor=00ffff"/> | <img src="https://img.shields.io/badge/OpenCV-2b2b2b?style=for-the-badge&logo=opencv&logoColor=ff00ff"/> | <img src="https://img.shields.io/badge/Scikit_Learn-2b2b2b?style=for-the-badge&logo=scikit-learn&logoColor=00ffff"/> |
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 <span style="color:#ff00ff">**GitHub Analytics**</span>
 
 <div align="center">
-  <!-- GitHub Activity Graph -->
+  <!-- Activity Graph (Neon Style) -->
   <a href="https://github.com/Ajeypandey-eng">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeypandey-eng&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Ajeypandey-eng's Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeypandey-eng&bg_color=0D1117&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" alt="Ajey's Activity Graph" />
   </a>
-  <br><br>
+  <br>
   
-  <!-- Stats Card (Left) & Top Langs (Right) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajeypandey-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeypandey-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-  
-  <br><br>
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeypandey-eng&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+ 
 </div>
 
----
 
-### 📂 Recent Projects
+### 📂 <span style="color:#00ffff">**Featured Projects**</span>
 
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
-| **Face Recognition System** | Real-time face detection & recognition pipeline. | `OpenCV` `DeepFace` |
-| **Image Captioning AI** | Encoder-Decoder (CNN+RNN) model to describe images. | `TensorFlow` `LSTM` `VGG16` |
-| **Customer Churn Prediction**| ML model to predict bank customer attrition. | `Scikit-learn` `XGBoost` |
-| **Tic-Tac-Toe AI** | Unbeatable AI agent using Minimax algorithm. | `Python` `Algorithms` |
+| **Face Recognition** | Real-time biometrics pipeline. | `OpenCV` `DeepFace` |
+| **Image Captioning** | Vision-to-Text Neural Network. | `TensorFlow` `LSTM` |
+| **Churn Prediction**| Customer retention algorithm. | `Scikit-learn` `XGBoost` |
+| **Tic-Tac-Toe AI** | Unbeatable Minimax agent. | `Python` `Logic` |
 
 ---
 
+
 <div align="center">
-  <i>"Data is the new oil."</i>
+  <i><span style="color:#00ffff">"Wake up, Samurai. We have a future to build."</span></i>
 </div>
