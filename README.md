@@ -43,17 +43,7 @@ My goal is to create systems that can *see*, *read*, and *predict*.
 
 ---
 
-### 📊 <span style="color:#ff00ff">**GitHub Analytics**</span>
 
-<div align="center">
-  <!-- Activity Graph (Neon Style) -->
-  <a href="https://github.com/Ajeypandey-eng">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeypandey-eng&bg_color=0D1117&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" alt="Ajey's Activity Graph" />
-  </a>
-  <br>
-  
- 
-</div>
 
 
 ### 📂 <span style="color:#00ffff">**Featured Projects**</span>
